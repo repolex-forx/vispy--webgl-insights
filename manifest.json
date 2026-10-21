@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "vispy",
+  "repo": "webgl-insights",
+  "versions": [
+    {
+      "commit": "80fbc1c5585d1fdedc58195b702a558e6c3965ed",
+      "parsed_at": "2026-10-21T19:50:47.706047+00:00",
+      "filetree": "filetree/80fbc1c5585d1fdedc58195b702a558e6c3965ed.nq.gz",
+      "blobs": [
+        "blob/8d599243aa9366265f7df68b3b29e7d20497a8ee.nq.gz",
+        "blob/8f37f46f68b824fd64fa493a712bd27fef322868.nq.gz",
+        "blob/517488a2911ccf4cf043379cdd178c5b764c6b84.nq.gz",
+        "blob/f09f8ce9605564c866673e8afcea25592e2be434.nq.gz",
+        "blob/b19b7180f3f2415bfa81b43bdad33c9e4d733100.nq.gz",
+        "blob/61cd85a3880d3c571e9e64930e063c6b8ce77221.nq.gz",
+        "blob/03ed27ac0bad7cec89e682b9e909c51584782718.nq.gz",
+        "blob/db92a80654cab5d489b40c402249b8fb50adaa12.nq.gz",
+        "blob/8bc8c84a2e7d96942c01bbcdabd2a57f8be7be33.nq.gz",
+        "blob/028e14d46d0580c3731b93e0f40338b3a0140421.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
